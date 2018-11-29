@@ -1,0 +1,12 @@
+ if(liczbaA==liczbaB)
+       {
+           printf("Liczby sa jednakowe");
+       }
+    return 0;
+
+
+
+ if (liczbaA>liczbaB)
+       {
+           printf("Wieksza z nich to : %10.2f",liczbaA);
+       }
